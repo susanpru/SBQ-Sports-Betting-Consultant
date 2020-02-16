@@ -710,10 +710,18 @@ td {
   }
   .pitch__text__container {
     width: 90%;
+    padding: 1rem;
+    margin: auto;
   }
   .pitch__heading {
-    font-size: 2rem;
+    font-size: 1.7rem;
+    line-height: 1.4;
 
+  }
+  .pitch {
+    width: 100%;
+    height: auto;
+    padding-top: 1rem;
   }
   .contact__container {
     width: 100%;
